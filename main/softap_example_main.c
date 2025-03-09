@@ -15,8 +15,8 @@
 #include <stdio.h>
 
 
-#define EXAMPLE_ESP_WIFI_SSID      "viettel"
-#define EXAMPLE_ESP_WIFI_PASS      "123456789"
+#define EXAMPLE_ESP_WIFI_SSID      "SANGHUYEN"
+#define EXAMPLE_ESP_WIFI_PASS      "12345678"
 #define EXAMPLE_ESP_MAXIMUM_RETRY   5
 
 #define AP_SSID                    "ESP32_AP"
